@@ -1,4 +1,4 @@
-name:vivekadarchini C
+![Screenshot 2024-08-26 213456](https://github.com/user-attachments/assets/30dd6a86-7c23-48ad-bc09-c58749b28adf)name:vivekadarchini C
 id:CT08DS7085
 domain:python programming 
 duration:aug to sep 2024
@@ -25,3 +25,5 @@ The Simple Calculator program is a basic Python application designed to perform 
 - **Exit or Continue**: The user can choose to either perform another calculation or exit the program.
 
 This simple calculator is ideal for basic arithmetic tasks, offering a straightforward and efficient way to perform calculations.
+ OUT PUT :
+ ![Screenshot 2024-08-26 213456](https://github.com/user-attachments/assets/8b7c740c-67a5-4567-883a-531bf98b136c)
